@@ -1,4 +1,5 @@
 # **OncoGPT: A Medical Conversational Model Tailored with Oncology Domain Expertise on a Large Language Model Meta-AI (LLaMA)**
+![Uploading image.png…]()
 
 ## Setup:
 In a conda env with pytorch available, run:  
