@@ -9,11 +9,10 @@ pip install -r requirements.txt
 
 ## Data and model:
 ### 1. OncoGPT Dataset:
-180k real conversations between patients and doctors of OncoGPT[OncoGPT-50k](https://github.com/OncoGPT1/OncoGPT1/blob/main/data/OncoGPT_demo.rar)
-Checkpoints of OncoGPT  
+180k real conversations between patients and doctors of OncoGPT. [OncoGPT-50k](https://github.com/OncoGPT1/OncoGPT1/blob/main/data/OncoGPT_demo.rar)  
 Real conversations between patients and doctors for test data  
 100k real conversations between patients and doctors from ChatDoctor  
-Stanford Alpaca data for basic conversational capabilities  
+Stanford Alpaca data for basic conversational capabilities. [Alpaca](https://github.com/OncoGPT1/OncoGPT1/blob/main/data/alpaca.json)  
 
 ### 2. Model Weights:
 Place the model weights file in the ./pretrained folder.
@@ -38,7 +37,7 @@ Fine-tuning with Lora
 
 ## How to inference
 You can build a OncoGPT model on your own machine and communicate with it.  
-``` python chat.py ```
+``` python chat.py ```  
 To apply for OncoGPT, please get in touch with xin_liu@kanghuajuntai.com.
 
 ## Overview
