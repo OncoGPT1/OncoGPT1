@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 ## Data and model:
 ### 1. OncoGPT Dataset:
-180k real conversations between patients and doctors of OncoGPT  
+180k real conversations between patients and doctors of OncoGPT[OncoGPT-50k](https://github.com/OncoGPT1/OncoGPT1/blob/main/data/OncoGPT_demo.rar)
 Checkpoints of OncoGPT  
 Real conversations between patients and doctors for test data  
 100k real conversations between patients and doctors from ChatDoctor  
