@@ -8,11 +8,11 @@ pip install -r requirements.txt
 
 ## Data and model:
 ### 1. OncoGPT Dataset:
-180k real conversations between patients and doctors of OncoGPT
-Checkpoints of OncoGPT
-Real conversations between patients and doctors for test data
-100k real conversations between patients and doctors from ChatDoctor
-Stanford Alpaca data for basic conversational capabilities
+180k real conversations between patients and doctors of OncoGPT  
+Checkpoints of OncoGPT  
+Real conversations between patients and doctors for test data  
+100k real conversations between patients and doctors from ChatDoctor  
+Stanford Alpaca data for basic conversational capabilities  
 
 ### 2. Model Weights:
 Place the model weights file in the ./pretrained folder.
