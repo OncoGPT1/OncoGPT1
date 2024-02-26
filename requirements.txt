@@ -1,0 +1,8 @@
+transformers==4.29.0.dev0
+torch==1.13.0+cu117
+torchaudio==0.13.0+cu117
+torchvision==0.14.0+cu117
+sentencepiece==0.1.98
+tokenizers==0.12.1
+wandb==0.15.2
+accelerate==0.18.0
