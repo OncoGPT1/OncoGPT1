@@ -37,7 +37,9 @@ Fine-tuning with Lora
 
 ## How to inference
 You can build a OncoGPT model on your own machine and communicate with it.  
-``` python chat.py ```  
+``` 
+python chat.py  
+```  
 To apply for OncoGPT, please get in touch with xin_liu@kanghuajuntai.com.
 
 ## Overview
