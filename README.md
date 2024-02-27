@@ -53,7 +53,7 @@ You can build a OncoGPT model on your own machine and communicate with it.
 ``` 
 python chat.py  
 ```  
-To apply for OncoGPT, please get in touch with xin_liu@kanghuajuntai.com.
+To apply for OncoGPT, please register for hugging face and fill out this form. [Link](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__j-jygVUOEpYSTEzR0ZQUVMzUjdSMkExUkVYTVhGVS4u)  
 
 ## Examples  
 ```
