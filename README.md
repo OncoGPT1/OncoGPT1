@@ -47,6 +47,10 @@ OncoGPT is a specialized large linguistic dialogue model tailored for oncology-r
 
 ## Patient-physician Conversation Dataset
 To collect a dataset of patient-physician conversations. We investigated common doctor-patient dialogue websites, including Chinese data, and finally obtained 180K data，In patient-physician conversations, the patient's descriptions of disease symptoms are often colloquial and cursory. We filtered these data both manually and automatically, removed the identity information of the doctor and patient, removed low quality questions and used language tools to correct grammatical errors. In addition, we selected 737 questions to test the model and manually divided them into research and therapeutic questions to evaluate the model effect.
+
+## Future updates  
+Subsequent updates to the Oncogpt 180K full database, interactive demo, and version 2.0 with automated reference checking and citation fuction, are on the road.
+
 ## Limitations
 We emphasize that ChatDoctor is for academic research only and any commercial use and clinical use is prohibited. There are three factors in this decision: First, ChatDoctor is based on LLaMA and has a non-commercial license, so we necessarily inherited this decision. Second, our model is not licensed for healthcare-related purposes. Also, we have not designed sufficient security measures, and the current model still does not guarantee the full correctness of medical diagnoses.
 ## Reference
