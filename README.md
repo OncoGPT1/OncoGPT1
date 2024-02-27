@@ -1,3 +1,4 @@
+![image](https://github.com/OncoGPT1/OncoGPT1/blob/main/fig/logo.png)  
 # **OncoGPT: A Medical Conversational Model Tailored with Oncology Domain Expertise on a Large Language Model Meta-AI (LLaMA)**
 ![image](https://github.com/OncoGPT1/OncoGPT1/blob/main/fig/oncogpt.png)
 
