@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ### 1. OncoGPT Dataset:
 180k real conversations between patients and doctors of OncoGPT. [OncoGPT-50k](https://github.com/OncoGPT1/OncoGPT1/blob/main/data/OncoGPT_demo.rar)  
 Real conversations between patients and doctors for test data. [test](https://github.com/OncoGPT1/OncoGPT1/blob/main/data/test.json)    
-100k real conversations between patients and doctors from ChatDoctor. [HealthCareMagic-100k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view?usp=sharing)  
+100k real conversations between patients and doctors from ChatDoctor. [ChatDoctor-HealthCareMagic-100k](https://drive.google.com/file/d/1lyfqIwlLSClhgrCutWuEe_IACNq6XNUt/view?usp=sharing)  
 Stanford Alpaca data for basic conversational capabilities. [Alpaca](https://github.com/OncoGPT1/OncoGPT1/blob/main/data/alpaca.json)  
 
 ### 2. Model Weights:
